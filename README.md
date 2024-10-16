@@ -1,8 +1,10 @@
 # vagrantfile
 VagrantFile - Provisioning VM-ubuntu-14.04-Apache
 
-DOCUMENTATION
-Refer to this link for documentation full: https://devopscube.com/kubernetes-cluster-vagrant/
+ 
+- VirtualBox (VirtualBox.org)
+- Operating System ISO (https://ubuntu.com/download/server) 
+- Vagrant (https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
 
 PREREQUISITES
 - Ubuntu 22.04
