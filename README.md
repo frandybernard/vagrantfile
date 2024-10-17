@@ -1,15 +1,10 @@
 # vagrantfile
-VagrantFile - Provisioning VM-ubuntu-14.04-Apache
+VagrantFile - Provisioning VM-ubuntu-22.04-Apache
 
- 
+ PREREQUISITES
 - VirtualBox (VirtualBox.org)
 - Operating System ISO (https://ubuntu.com/download/server) 
 - Vagrant (https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
-
-PREREQUISITES
-- Ubuntu 22.04
-- VirtualBox Installed
-- Non-root Sudo user privileges
 
 SETTING UP YOUR VAGRANT PROJECT
 Once you have the necessary software installed, you can start setting up your project:
